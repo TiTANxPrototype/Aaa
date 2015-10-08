@@ -1,0 +1,22 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6670 (ID=0x6758)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\01-UNITY\02-ON PROGRESS\See\see_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\01-UNITY\02-ON PROGRESS\See\see_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\01-UNITY\02-ON PROGRESS\See\see_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\01-UNITY\02-ON PROGRESS\See\see_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: G:\01-UNITY\02-ON PROGRESS\See\see_Data\Managed\System.Core.dll (this message is harmless)
+Shader 'Hidden/TerrainEngine/Splatmap/Specular-Base': fallback shader 'Legacy Shaders/Specular' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Specular-Base': fallback shader 'Legacy Shaders/Specular' not found
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 8cc -> priority: 1 
